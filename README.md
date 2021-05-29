@@ -1,1 +1,1 @@
-# SDUIS
+# PracticalExercises
